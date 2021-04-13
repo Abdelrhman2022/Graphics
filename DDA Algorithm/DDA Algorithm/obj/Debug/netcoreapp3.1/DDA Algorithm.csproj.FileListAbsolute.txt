@@ -13,3 +13,18 @@ C:\Users\Keep Going\source\repos\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreap
 C:\Users\Keep Going\source\repos\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreapp3.1\DDA Algorithm.dll
 C:\Users\Keep Going\source\repos\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreapp3.1\DDA Algorithm.pdb
 C:\Users\Keep Going\source\repos\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreapp3.1\DDA Algorithm.genruntimeconfig.cache
+F:\GitHub\Graphics\DDA Algorithm\DDA Algorithm\bin\Debug\netcoreapp3.1\DDA Algorithm.exe
+F:\GitHub\Graphics\DDA Algorithm\DDA Algorithm\bin\Debug\netcoreapp3.1\DDA Algorithm.deps.json
+F:\GitHub\Graphics\DDA Algorithm\DDA Algorithm\bin\Debug\netcoreapp3.1\DDA Algorithm.runtimeconfig.json
+F:\GitHub\Graphics\DDA Algorithm\DDA Algorithm\bin\Debug\netcoreapp3.1\DDA Algorithm.runtimeconfig.dev.json
+F:\GitHub\Graphics\DDA Algorithm\DDA Algorithm\bin\Debug\netcoreapp3.1\DDA Algorithm.dll
+F:\GitHub\Graphics\DDA Algorithm\DDA Algorithm\bin\Debug\netcoreapp3.1\DDA Algorithm.pdb
+F:\GitHub\Graphics\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreapp3.1\DDA Algorithm.csprojAssemblyReference.cache
+F:\GitHub\Graphics\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreapp3.1\DDA_Algorithm.Form1.resources
+F:\GitHub\Graphics\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreapp3.1\DDA Algorithm.csproj.GenerateResource.cache
+F:\GitHub\Graphics\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreapp3.1\DDA Algorithm.AssemblyInfoInputs.cache
+F:\GitHub\Graphics\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreapp3.1\DDA Algorithm.AssemblyInfo.cs
+F:\GitHub\Graphics\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreapp3.1\DDA Algorithm.csproj.CoreCompileInputs.cache
+F:\GitHub\Graphics\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreapp3.1\DDA Algorithm.dll
+F:\GitHub\Graphics\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreapp3.1\DDA Algorithm.pdb
+F:\GitHub\Graphics\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreapp3.1\DDA Algorithm.genruntimeconfig.cache
