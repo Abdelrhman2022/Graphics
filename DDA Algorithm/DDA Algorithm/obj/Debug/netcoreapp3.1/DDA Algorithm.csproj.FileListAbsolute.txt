@@ -1,0 +1,15 @@
+C:\Users\Keep Going\source\repos\DDA Algorithm\DDA Algorithm\bin\Debug\netcoreapp3.1\DDA Algorithm.exe
+C:\Users\Keep Going\source\repos\DDA Algorithm\DDA Algorithm\bin\Debug\netcoreapp3.1\DDA Algorithm.deps.json
+C:\Users\Keep Going\source\repos\DDA Algorithm\DDA Algorithm\bin\Debug\netcoreapp3.1\DDA Algorithm.runtimeconfig.json
+C:\Users\Keep Going\source\repos\DDA Algorithm\DDA Algorithm\bin\Debug\netcoreapp3.1\DDA Algorithm.runtimeconfig.dev.json
+C:\Users\Keep Going\source\repos\DDA Algorithm\DDA Algorithm\bin\Debug\netcoreapp3.1\DDA Algorithm.dll
+C:\Users\Keep Going\source\repos\DDA Algorithm\DDA Algorithm\bin\Debug\netcoreapp3.1\DDA Algorithm.pdb
+C:\Users\Keep Going\source\repos\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreapp3.1\DDA Algorithm.csprojAssemblyReference.cache
+C:\Users\Keep Going\source\repos\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreapp3.1\DDA_Algorithm.Form1.resources
+C:\Users\Keep Going\source\repos\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreapp3.1\DDA Algorithm.csproj.GenerateResource.cache
+C:\Users\Keep Going\source\repos\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreapp3.1\DDA Algorithm.AssemblyInfoInputs.cache
+C:\Users\Keep Going\source\repos\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreapp3.1\DDA Algorithm.AssemblyInfo.cs
+C:\Users\Keep Going\source\repos\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreapp3.1\DDA Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Keep Going\source\repos\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreapp3.1\DDA Algorithm.dll
+C:\Users\Keep Going\source\repos\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreapp3.1\DDA Algorithm.pdb
+C:\Users\Keep Going\source\repos\DDA Algorithm\DDA Algorithm\obj\Debug\netcoreapp3.1\DDA Algorithm.genruntimeconfig.cache
