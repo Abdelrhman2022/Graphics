@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Keep Going\\source\\repos\\DDA Algorithm\\DDA Algorithm\\DDA Algorithm.csproj": {}
+    "F:\\GitHub\\Graphics\\DDA Algorithm\\DDA Algorithm\\DDA Algorithm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Keep Going\\source\\repos\\DDA Algorithm\\DDA Algorithm\\DDA Algorithm.csproj": {
+    "F:\\GitHub\\Graphics\\DDA Algorithm\\DDA Algorithm\\DDA Algorithm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Keep Going\\source\\repos\\DDA Algorithm\\DDA Algorithm\\DDA Algorithm.csproj",
+        "projectUniqueName": "F:\\GitHub\\Graphics\\DDA Algorithm\\DDA Algorithm\\DDA Algorithm.csproj",
         "projectName": "DDA Algorithm",
-        "projectPath": "C:\\Users\\Keep Going\\source\\repos\\DDA Algorithm\\DDA Algorithm\\DDA Algorithm.csproj",
+        "projectPath": "F:\\GitHub\\Graphics\\DDA Algorithm\\DDA Algorithm\\DDA Algorithm.csproj",
         "packagesPath": "C:\\Users\\Keep Going\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Keep Going\\source\\repos\\DDA Algorithm\\DDA Algorithm\\obj\\",
+        "outputPath": "F:\\GitHub\\Graphics\\DDA Algorithm\\DDA Algorithm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Keep Going\\AppData\\Roaming\\NuGet\\NuGet.Config",
