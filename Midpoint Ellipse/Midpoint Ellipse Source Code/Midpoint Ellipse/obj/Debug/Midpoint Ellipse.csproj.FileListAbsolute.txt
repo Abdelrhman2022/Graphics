@@ -1,0 +1,10 @@
+C:\Users\Genuis\source\repos\Midpoint Ellipse\Midpoint Ellipse\obj\Debug\Midpoint_Ellipse.Form1.resources
+C:\Users\Genuis\source\repos\Midpoint Ellipse\Midpoint Ellipse\obj\Debug\Midpoint_Ellipse.Properties.Resources.resources
+C:\Users\Genuis\source\repos\Midpoint Ellipse\Midpoint Ellipse\obj\Debug\Midpoint Ellipse.csproj.GenerateResource.cache
+C:\Users\Genuis\source\repos\Midpoint Ellipse\Midpoint Ellipse\obj\Debug\Midpoint Ellipse.csproj.CoreCompileInputs.cache
+C:\Users\Genuis\source\repos\Midpoint Ellipse\Midpoint Ellipse\bin\Debug\Midpoint Ellipse.exe.config
+C:\Users\Genuis\source\repos\Midpoint Ellipse\Midpoint Ellipse\bin\Debug\Midpoint Ellipse.exe
+C:\Users\Genuis\source\repos\Midpoint Ellipse\Midpoint Ellipse\bin\Debug\Midpoint Ellipse.pdb
+C:\Users\Genuis\source\repos\Midpoint Ellipse\Midpoint Ellipse\obj\Debug\Midpoint Ellipse.exe
+C:\Users\Genuis\source\repos\Midpoint Ellipse\Midpoint Ellipse\obj\Debug\Midpoint Ellipse.pdb
+C:\Users\Genuis\source\repos\Midpoint Ellipse\Midpoint Ellipse\obj\Debug\Midpoint Ellipse.csprojAssemblyReference.cache
